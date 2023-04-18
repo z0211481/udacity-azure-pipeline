@@ -58,10 +58,6 @@ I ran benchmarking on this request.
 
 ![](/imgs/14_job.PNG)
 
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
-
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
-
 ## Screen Recording
 
 [Here](https://youtu.be/cZ5N4UeUWI4) you can find a quick overview of the Azure ML studio, showcasing the project.
